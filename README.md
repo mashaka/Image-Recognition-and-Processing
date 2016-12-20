@@ -6,3 +6,7 @@ Implementation of Patterned Pixel Grouping (PPG) demosaicing algorithm.
 
 ## Task 2
 Implementation of van Herk/Gil-Werman (HGW) algorithm.
+
+## Task 3
+Implementation of binarization algorithm ([original article](https://habrahabr.ru/company/abbyy/blog/218285/))
+
