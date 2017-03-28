@@ -92,3 +92,5 @@ ENV/
 # Other
 resized/
 times*.csv
+testOutput/
+binarizationTestSet/
